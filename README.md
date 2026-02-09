@@ -14,7 +14,7 @@ DermoPro AI empowers dermatologists with cutting-edge AI to track skin lesion ev
 ## 🛠 Tech Stack
 - **Frontend:** Flutter
 - **Backend:** Firebase (Auth, Firestore)
-- **AI Engine:** Google Gemini 3 API (gemini-1.5-flash / gemini-3-flash-preview)
+- **AI Engine:** Google Gemini 3 API ( gemini-3-flash-preview)
 
 ## 💡 Gemini 3 Integration
 We leveraged Gemini 3 for its **low-latency multimodal reasoning**. The ability to analyze two high-resolution images side-by-side in "Evolution Mode" allows for precise detection of dermatological changes that traditional algorithms might miss.
