@@ -1,0 +1,37 @@
+# --- SECRETS & API KEYS (CRITIQUE) ---
+.env
+lib/firebase_options.dart
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# --- CONFIGURATION FIREBASE (OPTIONNEL MAIS RECOMMANDÉ) ---
+firebase.json
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# --- FLUTTER / DART ---
+build/
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# --- IDE (VS CODE / ANDROID STUDIO) ---
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# --- SYSTEM ---
+*.log
+.DS_Store
