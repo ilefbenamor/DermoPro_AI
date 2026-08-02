@@ -1,5 +1,9 @@
 # DermoPro AI 🩺
 **Next-Generation Dermatological Assistant powered by Gemini 3**
+## 🎥 Demo
+[![Watch the demo](https://img.youtube.com/vi/5m4OngoShQ8/maxresdefault.jpg)](https://youtu.be/5m4OngoShQ8)
+
+*Click to watch the 3-min walkthrough: multimodal lesion analysis, Evolution Mode, and AI Medical Scribe in action.*
 
 ## 🚀 Vision
 DermoPro AI empowers dermatologists with cutting-edge AI to track skin lesion evolution, automate medical reporting, and conduct real-time clinical research.
